@@ -1,6 +1,6 @@
 # Sai Tarun Inaganti
 
-I am currently a Master's student at the Minnesota Robotics Institute whose broad research interests lie in the applications of AI and Robotics.
+I am currently a Master's student at the Minnesota Robotics Institute with broad interests in the generative and analytical applications of AI in scenarios including Human-Centric Senarios and Robotics.
 
 For more details, visit [My Site](https://inaganti.homothereum.org).
 
