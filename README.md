@@ -1,6 +1,6 @@
 # Sai Tarun Inaganti
 
-I am currently a Research Engineer at the [Minnesota Robotics Institute](https://cse.umn.edu/mnri) with broad interests in the generative and analytical applications of AI in scenarios including Human-Centric Senarios and Robotics.
+I am currently a Researcher at the [Minnesota Robotics Institute](https://cse.umn.edu/mnri) with broad interests in the generative and analytical applications of AI in scenarios including Human-Centric Senarios and Robotics.
 
 For more details, visit [My Site](https://inaganti.homothereum.org).
 
