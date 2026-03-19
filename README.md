@@ -1,8 +1,10 @@
 # Sai Tarun Inaganti
 
-I am currently a Researcher at the [Minnesota Robotics Institute](https://cse.umn.edu/mnri) with broad interests in the generative and analytical applications of scalable AI in various scenarios including Human-Centric Computing and Robotics.
+I am an researcher who's currently focused on Physical AI, with the most recent project examples being
+1. adapting foundational models for Robot-assisted Rehabilitation
+2. Flow-matching robot grasp optimization with sparse dynamic point cloud data
 
-For more details, visit [My Site](https://inaganti.homothereum.org).
+If you would like to collaborate with me, please reach out via email - mailto:inaganti@h9m.org.
 
 <!---
 kindredbluespirit/kindredbluespirit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
